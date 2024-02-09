@@ -1,5 +1,7 @@
 🔴🟡🟢
-
+<div align="center">
+<img style="" src="https://raw.githubusercontent.com/HiMAIayas/HiMAIayas/main/assets/images/my_name.gif">
+</div>
 <!--
 **HiMAIayas/HiMAIayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
