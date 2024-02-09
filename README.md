@@ -53,12 +53,11 @@
 
 <div align="center">
   
-| <a><img src="https://github-readme-stats.vercel.app/api?username=HiMAIayas&theme=radical&show_icons=true" width=500px/></a> | <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMAIayas&theme=radical&layout=donut"/></a> | 
+| <a><img src="https://github-readme-stats.vercel.app/api?username=HiMAIayas&theme=radical&show_icons=true" width=480px/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMAIayas&theme=radical&layout=donut" width=480px/></a> | <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HiMAIayas&theme=radical&custom_title=VSCode-Hours" width=1060px/></a> | 
 | ------------- | ------------- |
 
-| ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiMAIayas&theme=radical) |
+| <a><img src="https://github-readme-streak-stats.herokuapp.com?user=HiMAIayas&theme=radical"></a> |
 | ------------- |
-
 
 </div>
 
