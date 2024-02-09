@@ -56,8 +56,12 @@
 | <a><img src="https://github-readme-stats.vercel.app/api?username=HiMAIayas&theme=radical&show_icons=true" width=480px/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMAIayas&theme=radical&layout=donut" width=480px/></a> | <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HiMAIayas&theme=radical&custom_title=VSCode-Hours" width=1060px/></a> | 
 | ------------- | ------------- |
 
+| <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiMAIayas&theme=radical" width=800px></a> |
+| ------------- |
+
 | <a><img src="https://github-readme-streak-stats.herokuapp.com?user=HiMAIayas&theme=radical"></a> |
 | ------------- |
+
 
 </div>
 
