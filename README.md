@@ -1,6 +1,6 @@
 🔴🟡🟢
 <div align="center">
-  <div><img style="height:120px" src="https://raw.githubusercontent.com/HiMAIayas/HiMAIayas/main/assets/images/my_name_is.gif"></div>
+  <div><img style="height:120px" src="https://raw.githubusercontent.com/HiMAIayas/HiMAIayas/main/assets/images/github_myname_rounded.gif"></div>
   
   ### <b>Digital Engineering Student </b>
   <br>
@@ -47,10 +47,20 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
+</div><br>
+
+## <b> Stats</b><br>
+
+<div align="center">
+  
+| <a><img src="https://github-readme-stats.vercel.app/api?username=HiMAIayas&theme=radical&show_icons=true" width=500px/></a> | <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMAIayas&theme=radical&layout=donut"/></a> | 
+| ------------- | ------------- |
+
+| ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiMAIayas&theme=radical) |
+| ------------- |
 
 
-
-
+</div>
 
 
 
