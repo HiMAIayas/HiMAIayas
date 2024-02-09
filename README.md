@@ -12,7 +12,7 @@
 
 <br><hr>
 - 🔭 I’m currently working on **Object Detection ([NECTEC](https://www.nectec.or.th/) Project)**
-- 🌱 I’m currently learning **REACT, NEXTJS**
+- 📖 I’m currently learning **REACT, NEXTJS**
 - 👯 I’m looking to collaborate on ...
 <br>
 
